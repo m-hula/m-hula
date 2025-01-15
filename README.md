@@ -1,5 +1,7 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Matthew Hula</h1>
+<h3 align="center">Masters student at the University of Sheffield, studying Data Science
 
+## I have experience using R studio to create regression models, run PCAs, and visualise data using ggplot. During my Masters degree I will also gain experience with Python and SPSS. Projects using R studio include the repositories "Intro to data science" and "Data visualistion" as well as a previous project where I created a PCA comparing animal skulls. My interests are creating prediction models or PCAs related to either sports or biological related such as genetics and animals. 
 <!--
 **m-hula/m-hula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
